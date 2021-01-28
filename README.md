@@ -1,4 +1,4 @@
-# Daily Code Challenges
+# Daily JavaScript Challenges
 
 ![Butcher](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FVLuwvjBCZ27cY%2Fgiphy-downsized-large.gif&f=1&nofb=1)
 
