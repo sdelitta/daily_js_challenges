@@ -1,6 +1,6 @@
 # Daily Code Challenges
 
-![Bill](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fde49fb1f5de8f8c9d8f49a3031b90993%2Ftenor.gif%3Fitemid%3D7919605&f=1&nofb=1)
+![Butcher](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FVLuwvjBCZ27cY%2Fgiphy-downsized-large.gif&f=1&nofb=1)
 
 ## Overview
 
@@ -31,8 +31,7 @@ You may choose to do more than one per day, or none at all - just don't fall too
 
 - After solving a challenge, be sure to check the solution(s) contained in `solutions.js`. If multiple solutions are provided, they are typically shown in increasing order of "elegance".
 
-
-![Butcher](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FVLuwvjBCZ27cY%2Fgiphy-downsized-large.gif&f=1&nofb=1)
+![Bill](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fde49fb1f5de8f8c9d8f49a3031b90993%2Ftenor.gif%3Fitemid%3D7919605&f=1&nofb=1)
 
 ## Submission Guidelines
 
