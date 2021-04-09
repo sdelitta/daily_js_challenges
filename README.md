@@ -4,7 +4,7 @@
 
 ## Overview
 
-To provide additional practice writing JavaScript functions to solve a specific task, you will be required to complete one code challenge per day during weeks: 2, 4, 5, 7, 8, and 10. Totaling **30** challenges.
+To provide additional practice writing JavaScript functions to solve a specific task, you will be required to complete one code challenge per day during weeks: 4, 5, 7, 8, 10, and 11. Totaling **30** challenges.
 
 These code challenges are considered deliverables, and thus 80% of them must be completed in combination with other deliverable homework/assignments in order to receive a Certificate of Completion.
 
