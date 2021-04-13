@@ -12,7 +12,7 @@ You may choose to do more than one per day, or none at all - just don't fall too
 
 ## Getting Started
 
-- Fork and Clone this repository
+- `Fork` and `Clone` this repository
 - Each day, open the repo in VS Code and work in the `challenges.js` file
 
 ## Instructions
