@@ -4,7 +4,7 @@
 
 ## Overview
 
-To provide additional practice writing JavaScript functions to solve a specific task, you will be required to complete one code challenge per day during weeks: 4, 5, 7, 8, 10, and 11. Totaling **30** challenges.
+To provide additional practice writing JavaScript functions to solve a specific task, you will be required to complete one code challenge per day during weeks: 2, 4, 5, 7, 8, and 10. Totaling **30** challenges.
 
 These code challenges are considered deliverables, and thus 80% of them must be completed in combination with other deliverable homework/assignments in order to receive a Certificate of Completion.
 
@@ -36,4 +36,4 @@ You may choose to do more than one per day, or none at all - just don't fall too
 ## Submission Guidelines
 
 - Your instructors will be checking your progress from time-to-time. As you solve the challenges, add and commit your work, and `git push origin main`.  This pushes the updates to your fork.
-- At the end of the immersive, we will have you make one pull request on the main repo in the org using the [PR Guidelines](https://github.com/SEI-R-1-25/template_pull_request).
+- At the end of the immersive, we will have you make one pull request on the main repo in the org using the [PR Guidelines](https://github.com/SEI-R-4-26/template_pull_request).
