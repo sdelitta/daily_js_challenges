@@ -20,7 +20,7 @@ You may choose to do more than one per day, or none at all - just don't fall too
 
 - All challenges have one or more tests that run when the command `npm run test` is excuted from your terminal **in this directory**. You can use <kbd>ctrl</kbd>+<kbd>c</kbd> or <kbd>q</kbd> from within the terminal window to exit the test suite.
 
-- By default, Jest (the testing framework) will run all of the tests in order. To only run one of the files, start the testing suite with `npm run test` and press <kbd>p</kbd> to bring up the filtering option. Here you can type in which test file to run, ie: `basic`,`intermediate`,`hard`.
+- By default, Jest (the testing framework) will run all of the tests in order. To only run one of the files, start the testing suite with `npm run test` and press <kbd>p</kbd> to bring up the filtering option. Here you can type in which test file to run, ie: `basic`,`intermediate`,`hard` and hit <kbd>enter</kbd> or <kbd>return</kbd>.
 
 - As you solve your challenges and save your files, the testing suite will re-run the tests for you.
 
