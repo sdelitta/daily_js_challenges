@@ -13,21 +13,24 @@ You may choose to do more than one per day, or none at all - just don't fall too
 ## Getting Started
 
 - `Fork` and `Clone` this repository
+- `npm install` (You only need to run this once)
 - Each day, open the repo in VS Code and work in the `challenges.js` file
 
 ## Instructions
 
-- All challenges have one or more tests that run when the `run-tests-by-opening-in-browser.html` file is opened in the browser. 
+- All challenges have one or more tests that run when the command `npm run test` is excuted from your terminal **in this directory**. You can use <kbd>ctrl</kbd>+<kbd>c</kbd> or <kbd>q</kbd> from within the terminal window to exit the test suite.
 
-- By default, Jasmine (the testing framework) will run the tests in random order. To change this, click on the **Options** button at the top-right and uncheck the *run tests in random order* checkbox.
+- By default, Jest (the testing framework) will run all of the tests in order. To only run one of the files, start the testing suite with `npm run test` and press <kbd>p</kbd> to bring up the filtering option. Here you can type in which test file to run, ie: `basic`,`intermediate`,`hard`.
 
-- Solve the challenges by writing functions in the `challenges.js` file only.  **DO NOT MODIFY ANY OTHER FILE.**
+- As you solve your challenges and save your files, the testing suite will re-run the tests for you.
+
+- Solve the challenges by completing the functions in the `challenges.js` file only. **DO NOT MODIFY ANY OTHER FILE.**
 
 - Each code challenge requires writing a **single function** to solve.
 
 - Be sure to name the function **exactly** as specified by the challenge.
 
-- The default display shows only the challenges that are failing. To see an overall summary of all tests, click the "**Spec List**" link.
+- The default display shows only the challenges that are failing. You'll see a green indicator at the bottom telling you how many have passed.
 
 - After solving a challenge, be sure to check the solution(s) contained in `solutions.js`. If multiple solutions are provided, they are typically shown in increasing order of "elegance".
 
@@ -35,5 +38,5 @@ You may choose to do more than one per day, or none at all - just don't fall too
 
 ## Submission Guidelines
 
-- Your instructors will be checking your progress from time-to-time. As you solve the challenges, add and commit your work, and `git push origin main`.  This pushes the updates to your fork.
+- Your instructors will be checking your progress from time-to-time. As you solve the challenges, add and commit your work, and `git push origin main`. This pushes the updates to your fork.
 - At the end of Week 11, we will have you make one pull request on the main repo in the org using the [PR Guidelines](https://github.com/SEI-R-4-26/template_pull_request).
