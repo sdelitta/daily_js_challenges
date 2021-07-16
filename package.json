@@ -6,7 +6,7 @@
   "author": "Andre Pato <anpato1994@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest --watchAll"
   },
   "dependencies": {
     "jest": "^27.0.6"
