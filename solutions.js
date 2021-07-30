@@ -33,8 +33,8 @@ function sayHello() {
   -----------------------------------------------------------------*/
 // Your solution for 01-addOne here:
 
-function addOne(n) {
-  return n + 1
+function addOne(num) {
+  return num + 1
 }
 
 /*-----------------------------------------------------------------
@@ -56,9 +56,9 @@ function addOne(n) {
   -----------------------------------------------------------------*/
 // Your solution for 02-addTwoNumbers here:
 
-function addTwoNumbers(a, b) {
-  if (typeof a === 'number' && typeof b === 'number') {
-    return a + b
+function addTwoNumbers(num1, num2) {
+  if (typeof num1 === 'number' && typeof num2 === 'number') {
+    return num1 + num2
   } else {
     return NaN
   }
@@ -171,9 +171,9 @@ function addList() {
 // Your solution for 05-computeRemainder:
 
 /*--- Not using the modulus operator ---*/
-function computeRemainder(dividend, divisor) {
-  if (divisor === 0) return Infinity
-  return dividend - Math.floor(dividend / divisor) * divisor
+function computeRemainder(n1, n2) {
+  if (n2 === 0) return Infinity
+  return n1 - Math.floor(n1 / n2) * n2
 }
 
 /*--- Using the modulus operator ---*/
@@ -1252,3 +1252,37 @@ function totalTaskTime(tasks, numThreads) {
 // function totalTaskTime(tasks, numThreads) {
 //   return tasks.length && Math.max(...tasks.reduce((b, t, i) => (b[b.indexOf(Math.min(...b))] += t) && b, tasks.splice(0, numThreads)));
 // }
+
+module.exports = {
+  sayHello,
+  addOne,
+  addTwoNumbers,
+  sumNumbers,
+  addList,
+  computeRemainder,
+  range,
+  reverseUpcaseString,
+  removeEnds,
+  charCount,
+  formatWithPadding,
+  isPalindrome,
+  hammingDistance,
+  mumble,
+  fromPairs,
+  mergeObjects,
+  findHighestPriced,
+  mapArray,
+  reduceArray,
+  flatten,
+  isPrime,
+  primeFactors,
+  intersection,
+  balancedBrackets,
+  isWinningTicket,
+  getNumForIP,
+  toCamelCase,
+  countTheBits,
+  gridTrip,
+  addChecker,
+  totalTaskTime
+}

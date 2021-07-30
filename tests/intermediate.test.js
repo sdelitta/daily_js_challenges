@@ -1,6 +1,7 @@
 const {
   isPalindrome,
   hammingDistance,
+  balancedBrackets,
   mumble,
   fromPairs,
   mergeObjects,
